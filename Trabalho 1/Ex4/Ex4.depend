@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556490429 source:c:\users\ricar\onedrive\햞ea de trabalho\ex4\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex4.h"
+
+1556490514 c:\users\ricar\onedrive\햞ea de trabalho\ex4\ex4.h
+	"Ex4.h"
+	<stdio.h>
+
+1556490533 source:c:\users\ricar\onedrive\햞ea de trabalho\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex4.h"
+
+1558496112 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex4.h"
+
+1556502403 c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex4\ex4.h
+	"Ex4.h"
+	<stdio.h>
+
+1556582462 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex4\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex4.h"
+

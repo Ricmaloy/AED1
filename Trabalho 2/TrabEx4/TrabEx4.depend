@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1560549012 source:c:\users\ricar\onedrive\햞ea de trabalho\trabex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabEx4.h"
+
+1560544665 c:\users\ricar\onedrive\햞ea de trabalho\trabex4\trabex4.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560546133 source:c:\users\ricar\onedrive\햞ea de trabalho\trabex4\trabex4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TrabEx4.h"
+
+1562097314 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 2 aed\trabex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabEx4.h"
+
+1560544665 c:\users\ricar\onedrive\햞ea de trabalho\trabalho 2 aed\trabex4\trabex4.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560546133 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 2 aed\trabex4\trabex4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TrabEx4.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560642035 source:c:\users\ricar\onedrive\Área de trabalho\trabex7\trabex7.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabEx7.h"
+
+1560642012 c:\users\ricar\onedrive\Área de trabalho\trabex7\trabex7.h
+

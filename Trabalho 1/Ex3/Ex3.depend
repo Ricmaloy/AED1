@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1556484489 source:c:\users\ricar\onedrive\햞ea de trabalho\ex3\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex3.h"
+
+1556485049 c:\users\ricar\onedrive\햞ea de trabalho\ex3\ex3.h
+	"Ex3.h"
+
+1556486886 source:c:\users\ricar\onedrive\햞ea de trabalho\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex3.h"
+
+1558958572 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex3\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex3.h"
+
+1558927077 c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex3\ex3.h
+	"Ex3.h"
+
+1558927119 source:c:\users\ricar\onedrive\햞ea de trabalho\trabalho 1 aed\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex3.h"
+

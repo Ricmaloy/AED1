@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560638297 source:c:\users\ricar\onedrive\Área de trabalho\trabex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabEx5.h"
+
+1560638328 c:\users\ricar\onedrive\Área de trabalho\trabex5\trabex5.h
+
+1560638320 source:c:\users\ricar\onedrive\Área de trabalho\trabex5\trabex5.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabEx5.h"
+
