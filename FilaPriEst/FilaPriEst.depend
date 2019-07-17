@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561511346 source:c:\users\ricar\onedrive\Área de trabalho\filapriest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPriEst.h"
+
+1561434343 c:\users\ricar\onedrive\Área de trabalho\filapriest\filapriest.h
+
+1561570135 source:c:\users\ricar\onedrive\Área de trabalho\filapriest\filapriest.c
+	"FilaPriEst.h"
+	<stdlib.h>
+	<stdio.h>
+

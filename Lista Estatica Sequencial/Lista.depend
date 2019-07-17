@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555296720 source:c:\users\carrefou\desktop\lista\main.c
+	<stdio.h>
+	"racional2.h"
+
+1555291097 c:\users\carrefou\desktop\lista\racional2.h
+
+1555295579 source:c:\users\carrefou\desktop\lista\racional.c
+	<stdio.h>
+	<stdlib.h>
+	"racional2.h"
+

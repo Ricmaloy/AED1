@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557373328 source:c:\users\ricar\onedrive\햞ea de trabalho\ex1lab7\ex1lab7.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex1Lab7.h"
+
+1557373073 c:\users\ricar\onedrive\햞ea de trabalho\ex1lab7\ex1lab7.h
+	<stdio.h>
+	<stdlib.h>
+
+1557373265 source:c:\users\ricar\onedrive\햞ea de trabalho\ex1lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex1Lab7.h"
+
+1557373328 source:c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex1lab7\ex1lab7.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex1Lab7.h"
+
+1557373073 c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex1lab7\ex1lab7.h
+	<stdio.h>
+	<stdlib.h>
+
+1557373265 source:c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex1lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex1Lab7.h"
+

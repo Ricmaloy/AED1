@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557947549 source:c:\users\ricar\onedrive\Área de trabalho\ex02lab08\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex02Lab08.h"
+
+1557946860 c:\users\ricar\onedrive\Área de trabalho\ex02lab08\ex02lab08.h
+	<stdio.h>
+	<stdlib.h>
+
+1557947538 source:c:\users\ricar\onedrive\Área de trabalho\ex02lab08\ex02lab08.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex02Lab08.h"
+

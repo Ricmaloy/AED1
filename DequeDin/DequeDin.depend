@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561566367 source:c:\users\ricar\onedrive\Área de trabalho\dequedin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeDin.h"
+
+1561526473 c:\users\ricar\onedrive\Área de trabalho\dequedin\dequedin.h
+
+1561566298 source:c:\users\ricar\onedrive\Área de trabalho\dequedin\dequedin.c
+	"DequeDin.h"
+	<stdio.h>
+	<stdlib.h>
+

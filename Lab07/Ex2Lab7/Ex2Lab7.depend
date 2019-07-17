@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557375401 source:c:\users\ricar\onedrive\햞ea de trabalho\ex2lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2Lab7.h"
+
+1557375218 c:\users\ricar\onedrive\햞ea de trabalho\ex2lab7\ex2lab7.h
+	<stdio.h>
+	<stdlib.h>
+
+1557375443 source:c:\users\ricar\onedrive\햞ea de trabalho\ex2lab7\ex2lab7.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2Lab7.h"
+
+1557375443 source:c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex2lab7\ex2lab7.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2Lab7.h"
+
+1557375218 c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex2lab7\ex2lab7.h
+	<stdio.h>
+	<stdlib.h>
+
+1557375482 source:c:\users\ricar\onedrive\햞ea de trabalho\lab07\ex2lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2Lab7.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1560886421 source:c:\users\ricar\onedrive\햞ea de trabalho\lab12ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lab12Ex02.h"
+
+1560886400 c:\users\ricar\onedrive\햞ea de trabalho\lab12ex02\lab12ex02.h
+	<stdio.h>
+	<stdlib.h>
+
+1560886560 source:c:\users\ricar\onedrive\햞ea de trabalho\lab12ex02\lab12ex02.c
+	"Lab12Ex02.h"
+
+1560886560 source:c:\users\ricar\onedrive\햞ea de trabalho\lab12\lab12ex02\lab12ex02.c
+	"Lab12Ex02.h"
+
+1560886400 c:\users\ricar\onedrive\햞ea de trabalho\lab12\lab12ex02\lab12ex02.h
+	<stdio.h>
+	<stdlib.h>
+
+1560886421 source:c:\users\ricar\onedrive\햞ea de trabalho\lab12\lab12ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lab12Ex02.h"
+
